@@ -2,7 +2,7 @@
 "manifest_version": 2,
 "name": "Cric-Calendar",
 "description": "This shows a hello world message!",
-"version": "1.0",
+"version": "1.22",
 "browser_action": {
   "default_icon": "tab-icon.png",
   "default_title": "Have a good day"
