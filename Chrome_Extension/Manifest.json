@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name": "Hello World",
+"description": "This shows a hello world message!",
+"version": "1.0",
+"browser_action": {
+  "default_icon": "tab-icon.png",
+  "default_popup": "LAYOUT HTML FILE"
+}
+}
